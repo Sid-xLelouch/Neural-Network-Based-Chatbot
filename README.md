@@ -18,7 +18,7 @@ Contributing
 We welcome contributions from the community. If you have suggestions, bug reports, or want to contribute enhancements, please check our contribution guidelines in the CONTRIBUTING.md file.
 
 License
-This project is licensed under the  License, allowing for both personal and commercial use.
+This project is licensed under the GNU General Public License v3.0, allowing for both personal and commercial use.
 
 Acknowledgments
 Special thanks to the open-source community and contributors who have played a role in the development and improvement of this chatbot.
