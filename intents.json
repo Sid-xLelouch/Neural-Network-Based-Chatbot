@@ -1,0 +1,73 @@
+{
+    "intents":[
+        {
+            "tag":"greeting",
+            "patterns":["hello","hii","hey","wake up","Kira"
+            ],
+            "responses":["Hello Sir","How Are You Sir.","Always For You Sir",
+                "Hello","Here's Your Assistant."
+            ]
+        },
+        {
+            "tag":"bye",
+            "patterns":["shutdown","goodbye","see you later","sleep","exit","stop" 
+            ],
+            "responses":["Bye.","I am Going.","Bye Sir.","Good Bye",
+                "It'll be Nice To Meet You Again.","See You Later"
+            ]
+        },
+        {
+            "tag":"health",
+            "patterns":["how are you","how you","are you fine?","are you good"
+            ],
+            "responses":["Fine.","Perfect.","Cool.",
+                "Like You.","Are you Fine? I'm Fine."
+            ]
+        },
+        {
+            "tag":"name",
+            "patterns":["your name","what is your name","who are you","what are you"
+            ],
+            "responses":["Kira","I am Kira.","I am an A.I Assistant.",
+                "My name is Kira","I am an Virtual Assistant"
+            ]
+        },
+        {
+            "tag":"time",
+            "patterns":["what is time","time","what's the time"
+            ],
+            "responses":["time"
+            ]
+        },
+        {
+            "tag":"date",
+            "patterns":["what is date","date","what's the date today"
+            ],
+            "responses":["date"
+            ]
+        },
+        {
+            "tag":"day",
+            "patterns":["what's the day","day","which day is it","today"
+            ],
+            "responses":["day"
+            ]
+        },
+        {
+            "tag":"wikipedia",
+            "patterns":["who is","about","what is","wikipedia"
+            ],
+            "responses":["wikipedia"
+            ]
+        },
+        {
+            "tag":"google",
+            "patterns":["google search","google","search"
+            ],
+            "responses":["google"
+            ]
+        }
+    
+    
+    ]
+}
